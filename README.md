@@ -1,14 +1,14 @@
 # Criar um aplicativo de consulta a API do [GitHub](https://github.com)#
 
-Criar um aplicativo para consultar a [API do GitHub](https://developer.github.com/v3/) e trazer os repositórios mais populares de Java. Basear-se no mockup fornecido:
+Criar um aplicativo para consultar a [API do The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction/) e trazer os filmes mais populares. Basear-se no mockup fornecido:
 
 ![Captura de tela de 2015-10-22 11-28-03.png](https://bitbucket.org/repo/7ndaaA/images/3102804929-Captura%20de%20tela%20de%202015-10-22%2011-28-03.png)
 
 ### **Deve conter** ###
 
-- __Lista de repositórios__. Exemplo de chamada na API: `https://api.github.com/search/repositories?q=language:Java&sort=stars&page=1`
+- __Lista de filmes__. Documentado na página: `https://developers.themoviedb.org/3/movies/get-popular-movies`
   * Ao tocar em um item, deve levar a lista de Pull Requests do repositório
-- __Pull Requests de um repositório__. Exemplo de chamada na API: `https://api.github.com/repos/<criador>/<repositório>/pulls`
+- __Detalhes do filme__. Documentado na página: `https://developers.themoviedb.org/3/movies/get-movie-details`
   * Cada item da lista deve exibir Nome / Foto do autor do PR, Título do PR, Data do PR e Body do PR
   * Ao tocar em um item, deve abrir no browser a página do Pull Request em questão
 
