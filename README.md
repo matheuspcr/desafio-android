@@ -15,6 +15,8 @@ Criar um aplicativo para consultar a [API do The Movie Database](https://develop
 
 ### **Ganha + pontos se conter** ###
 
+* Utilização da linguagem Kotlin
+* Padrão de arquitetura (MVP | MVVM)
 * Framework para comunicação com API
 * Testes no projeto (unitários)
 * Cache de imagens e da API
