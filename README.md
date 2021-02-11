@@ -1,4 +1,4 @@
-# Criar um aplicativo de consulta a API do [GitHub](https://github.com)#
+# Criar um aplicativo de consulta a API do [The Movie Database](https://github.com)#
 
 Criar um aplicativo para consultar a [API do The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction/) e trazer os filmes mais populares. Basear-se no mockup fornecido:
 
