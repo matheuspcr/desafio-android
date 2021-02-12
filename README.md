@@ -9,7 +9,6 @@ Criar um aplicativo para consultar a [API do The Movie Database](https://develop
   * Ao tocar em um item, deve levar a tela de detalhe do filme
 - __Detalhes do filme__. Documentado na página: `https://developers.themoviedb.org/3/movies/get-movie-details`
   * Cada item da lista deve exibir Nome, Foto, data de lançamento e resumo(overview) do filme
-  * Ao tocar em um item, deve abrir no browser a página do Pull Request em questão
 
 ### **Ganha + pontos se conter** ###
 
