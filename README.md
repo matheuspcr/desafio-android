@@ -1,8 +1,6 @@
 # Criar um aplicativo de consulta a API do [The Movie Database](https://github.com)#
 
-Criar um aplicativo para consultar a [API do The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction/) e trazer os filmes mais populares. Basear-se no mockup fornecido:
-
-![Captura de tela de 2015-10-22 11-28-03.png](https://bitbucket.org/repo/7ndaaA/images/3102804929-Captura%20de%20tela%20de%202015-10-22%2011-28-03.png)
+Criar um aplicativo para consultar a [API do The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction/) e trazer os filmes mais populares. 
 
 ### **Deve conter** ###
 
